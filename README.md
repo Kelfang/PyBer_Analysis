@@ -13,8 +13,11 @@
 
 I will dissect each type of city and then provide an overview of how they relate to one another. Below you will find a table that illuminates key metrics across the three groups.
 
-*##### PyBer Summary Table*
+
+<sub>*PyBer Summary Table*<sub/>
+  
 ![PyBer_summary_table](https://github.com/Kelfang/PyBer_Analysis/blob/main/analysis/PyBer_summary_table.png)
+
 
 ### Urban Ride Data
   As one might suspect, the urban demographic held the highest number of total rides and the highest number of total drivers among the three groups. This makes sense due to population density - the larger the population the more rides and the more drivers. On the other hand, the “Average Fare per Ride” was the lowest among the three categories. This should be expected since urban destinations are geographically concentrated and the distance from one location to another are often shorter distances that take less time. That translates to more rides with a lower average fare.
@@ -31,14 +34,15 @@ I will dissect each type of city and then provide an overview of how they relate
   
   The drivers in the rural areas often have longer trips, but they are likely earning the most of all categories with $55.49 as the “Average Fare per Driver”. Digging into this number further, you’ll see that it’s an increase of $20.87 over the “Average Fare per Ride”. Additionally, the 78 rural drivers booked 125 rides which means each driver averaged 1.6 rides per that 4-month timeframe. 
 
-### High level
+### Overall Ride Data
   In evaluating this data at a higher level, you can see that the urban group generated the highest “Total Fares”, and that is a directly correlated to the number of rides. There are also more than enough drivers to meet those needs so it’s highly probable that no ride request goes unfulfilled. However, the urban community is saturated with drivers when compared to the suburban and rural communities. This fact is reflected in three key areas: “Total Rides”, Total Drivers”, and “Average Fare per Driver”. Both the suburban and rural drivers earn a more favorable income than the urban drivers, on a per ride basis. However, the “Total Rides” volume is far less in the suburban and rural areas which may impact the appeal of drivers to participate in those communities. In general, the drivers may have a default assumption that there is more opportunity in the urban setting than the suburban or rural. The data shown here, shows otherwise. 
   
   Looking at the graph below, you can see that the suburban and rural usage are more similar in their peaks and valleys. The urban activity seeming to follow a bit more of a predictable pattern. While all three categories have their ups and downs, the suburban group seems to have the largest swings in usage. This could make forecasting future driver numbers difficult. The rural, while lower total fares than the rest, still seems to have some reliability with it’s tempered line.  
 
 
-*##### PyBer Fare Summary*
+<sub>*PyBer Fare Summary*<sub/>
 ![PyBer_fare_summary](https://github.com/Kelfang/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+
 
 ## Final Thoughts
   While this data doesn’t provide us with all the details, I do believe it gives us enough information to determine some next steps.  
