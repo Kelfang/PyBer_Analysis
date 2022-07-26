@@ -13,7 +13,8 @@
 
 I will dissect each type of city and then provide an overview of how they relate to one another. Below you will find a table that illuminates key metrics across the three groups.
 
-Table of info
+*##### PyBer Summary Table*
+![PyBer_summary_table](https://github.com/Kelfang/PyBer_Analysis/blob/main/analysis/PyBer_summary_table.png)
 
 ### Urban Ride Data
   As one might suspect, the urban demographic held the highest number of total rides and the highest number of total drivers among the three groups. This makes sense due to population density - the larger the population the more rides and the more drivers. On the other hand, the “Average Fare per Ride” was the lowest among the three categories. This should be expected since urban destinations are geographically concentrated and the distance from one location to another are often shorter distances that take less time. That translates to more rides with a lower average fare.
@@ -35,7 +36,9 @@ Table of info
   
   Looking at the graph below, you can see that the suburban and rural usage are more similar in their peaks and valleys. The urban activity seeming to follow a bit more of a predictable pattern. While all three categories have their ups and downs, the suburban group seems to have the largest swings in usage. This could make forecasting future driver numbers difficult. The rural, while lower total fares than the rest, still seems to have some reliability with it’s tempered line.  
 
-Graph insert
+
+*##### PyBer Fare Summary*
+![PyBer_fare_summary](https://github.com/Kelfang/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ## Final Thoughts
   While this data doesn’t provide us with all the details, I do believe it gives us enough information to determine some next steps.  
